@@ -1,0 +1,15 @@
+# Compiled binaries
+/tommedag
+source/tommedag
+*.exe
+*.test
+*.out
+
+# Coverage
+coverage.txt
+coverage.html
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
